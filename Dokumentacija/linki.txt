@@ -1,0 +1,31 @@
+
+*esp32-s dokumentacija https://www.es.co.th/Schemetic/PDF/ESP32.PDF
+https://randomnerdtutorials.com/esp32-flash-memory/
+https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
+https://lastminuteengineers.com/esp32-ntp-server-date-time-tutorial/
+https://arduinodiy.wordpress.com/2017/03/07/calculating-sunrise-and-sunset-on-arduino-or-other-microcontroller/
+
+https://www.instructables.com/Calculating-Sunset-and-Sunrise-for-a-Microcontroll/ //sunrise & sunset
+
+
+
+
+Kapacitivni senzor
+Kalibracija: https://www.mdpi.com/2077-0472/9/7/141/htm
+Gravimetrična metoda: https://s.campbellsci.com/documents/fr/technical-papers/soilh20c.pdf
+Optimalna vlaga: https://www.greenwaybiotech.com/blogs/gardening-articles/how-soil-moisture-affects-your-plants-growth
+Senzor: https://www.circuitschools.com/interface-capacitive-soil-moisture-sensor-v1-2-with-arduino-lcd-and-oled/
+	file:///C:/Users/Jan/Downloads/sensors-20-03585.pdf
+Senzor slika: https://aws1.discourse-cdn.com/arduino/original/4X/b/f/5/bf59c155277511be834da260534b8200200ebebe.jpeg
+Vezje slika: https://content.instructables.com/ORIG/FW1/E4OH/KID4XS29/FW1E4OHKID4XS29.png?auto=webp&fit=bounds&frame=1
+Slika vezave: https://diyi0t.com/wp-content/uploads/2020/08/Soil-Moisture-Sensor-ESP32-NodeMCU_Steckplatine.png
+
+AD pretvornik - analogno-digitalni pretvornik
+
+DHT22
+DHT22:https://www.daakyetech.com/wp-1/wp-content/uploads/2019/01/DHT22-AM2302-Digital-Temp-and-Humidity-Sensor.png
+
+
+DHT - digital output humidity and temperature sensor
+OTP - one time programmable memory
+PROM - programmable rendomly accesd memory 
